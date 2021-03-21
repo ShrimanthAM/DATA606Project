@@ -5,6 +5,7 @@ Real Time Courier boxes detection System using CNNs
 
 
 Overview
+
 The aim of this project is to detect various courier packages that arrive at your doorstep by the images or videos captured by the Raspberry Pi camera. This falls under the category of Computer vision tasks and is a subset of object detection. The generic process of object detection is brought down to detect the various courier service providers like DHL, FedEx, UPS, USPS, Amazon by identifying the logos on the packages along with the bounding boxes. I will be using the YOLO framework for object detection. 
 
 
