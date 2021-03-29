@@ -20,3 +20,15 @@ In order to implement the project, we have to train the model to detect these sp
 Once the training data is ready it has to be converted in the format how the YOLO framework accepts
 2. Training the model using the YOLO framework 
 3. Testing the model 
+
+
+Data Annotation steps - LabelImg open source tool
+  1. intsall LabelImg tool as per the https://github.com/tzutalin/labelImg#labelimg
+  2. execute tha application(labelImg.py)
+  3. Open the directory of the images to be labelled 
+  4. change the format to Yolo in left side bar 
+  5. select create rec box and draw the bounding box around the object 
+  6. add the class name in the label list and select it
+  7. save the label.txt file created in the labels directory
+
+
