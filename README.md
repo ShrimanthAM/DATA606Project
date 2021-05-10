@@ -32,6 +32,7 @@ Data Annotation steps - LabelImg open source tool
   7. save the label.txt file created in the labels directory
 
 Conclusion:
+
 Object detection is the core component for most of the computer vision systems, the current advancements have been used in many real time applications. 
 As we know training the model is computer intensive, but attaining the inference on low compute devices not requires much of resources. Hence the future is towards predicting inference on edge devices which have limited or no access to cloud or  high compute resources. Deploying the trained model's weights on edge devices and detecting the images captured on the go by running a forward pass along with the pre-trained weights will surely lead to many more applications.
 
