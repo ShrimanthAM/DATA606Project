@@ -37,3 +37,10 @@ Object detection is the core component for most of the computer vision systems, 
 As we know training the model is computer intensive, but attaining the inference on low compute devices not requires much of resources. Hence the future is towards predicting inference on edge devices which have limited or no access to cloud or  high compute resources. Deploying the trained model's weights on edge devices and detecting the images captured on the go by running a forward pass along with the pre-trained weights will surely lead to many more applications.
 
 
+References
+
+1. Becoming Blind Is a Top 4 Fear – Smart Vision Labs. “Why Vision Is the Most Important Sense Organ.” Smart Vision Labs, 29 Jan. 2017, www.smartvisionlabs.com/blog/why-vision-is-the-most-important-sense-organ/.
+2. Brownlee, Jason. “A Gentle Introduction to Computer Vision.” Machine Learning Mastery, 5 July 2019, machinelearningmastery.com/what-is-computer-vision/.
+3. Redmon, Joseph, and Ali Farhadi. “YOLO9000: Better, Faster, Stronger.” 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, doi:10.1109/cvpr.2017.690.
+4. Redmon, Joseph, et al. “You Only Look Once: Unified, Real-Time Object Detection.” 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016, doi:10.1109/cvpr.2016.91.
+5. Redmon, J. (n.d.). Darknet: Open Source Neural Networks in C. https://pjreddie.com/darknet/.
