@@ -1,11 +1,11 @@
 # DATA606Project
 DATA 606 Capstone Project repository 
 
-Real Time Courier boxes detection System using CNNs
+**Real Time Courier boxes detection System using CNNs**
 
-Presentations: 
+**Presentations**: https://github.com/ShrimanthAM/DATA606Project/tree/main/PPT
 
-Overview
+**Overview**
 
 The aim of this project is to detect various courier packages that arrive at your doorstep by the images or videos captured by the Raspberry Pi camera. This falls under the category of Computer vision tasks and is a subset of object detection. The generic process of object detection is brought down to detect the various courier service providers like FedEx, UPS, USPS, Amazon by identifying the logos on the packages along with the bounding boxes. I will be using the YOLO framework for object detection. 
 
@@ -31,14 +31,14 @@ Data Annotation steps - LabelImg open source tool
   5. select create rec box and draw the bounding box around the object 
   6. add the class name in the label list and select it
   7. save the label.txt file created in the labels directory
-
-Conclusion:
+**
+Conclusion:**
 
 Object detection is the core component for most of the computer vision systems, the current advancements have been used in many real time applications. 
 As we know training the model is computer intensive, but attaining the inference on low compute devices not requires much of resources. Hence the future is towards predicting inference on edge devices which have limited or no access to cloud or  high compute resources. Deploying the trained model's weights on edge devices and detecting the images captured on the go by running a forward pass along with the pre-trained weights will surely lead to many more applications.
 
 
-References
+**References**
 
 1. Becoming Blind Is a Top 4 Fear – Smart Vision Labs. “Why Vision Is the Most Important Sense Organ.” Smart Vision Labs, 29 Jan. 2017, www.smartvisionlabs.com/blog/why-vision-is-the-most-important-sense-organ/.
 2. Brownlee, Jason. “A Gentle Introduction to Computer Vision.” Machine Learning Mastery, 5 July 2019, machinelearningmastery.com/what-is-computer-vision/.
