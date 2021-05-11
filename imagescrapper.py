@@ -108,3 +108,10 @@ search_term = 'Amazon'
 search_and_download(
     search_term = search_term,
 )
+
+
+
+
+#References
+#https://levelup.gitconnected.com/how-to-download-google-images-using-python-2021-82e69c637d59
+#https://ladvien.com/scraping-internet-for-magic-symbols/
